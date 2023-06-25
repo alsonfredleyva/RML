@@ -3,7 +3,7 @@ POST
 localhost:4444/auth/signup
 
 // recruiter
-
+  
 {
     "email": "john@gmail.com",
     "password": "test",
